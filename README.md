@@ -71,7 +71,4 @@ Install via **Sketch > Include Library > Manage Libraries**[cite: 14, 17]:
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/smart-guardian-iot.git
-   cd smart-guardian-iot
+Contact = isurujayanada2002@gmail.com
