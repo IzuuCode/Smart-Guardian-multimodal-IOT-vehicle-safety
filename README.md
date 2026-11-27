@@ -11,6 +11,8 @@
 ---
 
 ## 📖 Overview
+<img width="1500" height="750" alt="Flowchart" src="https://github.com/user-attachments/assets/95fffada-376c-4eb8-a281-c9721b83f094" />
+
 
 **Smart Guardian** is a low-cost, edge-computing Internet of Things (IoT) safety system built on an ESP32 microcontroller to address two major causes of road fatalities: alcohol-impaired driving and delayed emergency response during the post-crash "golden hour". 
 
