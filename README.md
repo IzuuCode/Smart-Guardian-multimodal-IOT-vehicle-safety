@@ -1,3 +1,4 @@
+[Three tier system architecture.pdf](https://github.com/user-attachments/files/35525429/Three.tier.system.architecture.pdf)
 # Smart Guardian: Multimodal IoT Vehicular Safeguard
 
 **Design and Implementation of a Multimodal IoT Vehicular Safeguard: Steering-Embedded DUI Prevention, Hybrid-Storage Black Box, and Real-Time Crash Alerting**[cite: 12]
