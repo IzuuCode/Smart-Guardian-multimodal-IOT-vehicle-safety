@@ -29,6 +29,8 @@ Unlike standalone aftermarket trackers or generalized cabin sensors, Smart Guard
 ---
 
 ## 🏗️ System Architecture
+<img width="640" height="222" alt="Three tier system architecture" src="https://github.com/user-attachments/assets/b898f9ff-467b-4015-8ecc-74d2fb8ea3b7" />
+
 
 The firmware follows a three-tier IoT architecture[cite: 15]:
 
